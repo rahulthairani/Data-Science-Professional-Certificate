@@ -32,8 +32,6 @@ Build a foundation in R and learn how to wrangle, analyze, and visualize data.
 
 https://www.edx.org/course/data-science-r-basics
 
-1 - 2 hours per week for 8 weeks
-
 ### About this course
 
 The first in our Professional Certificate Program in Data Science, this course will introduce you to the basics of R programming. You can better retain R when you learn it to solve a specific problem, so you'll use a real-world dataset about crime in the United States. You will learn the R skills needed to answer essential questions about differences in crime across the different states.
@@ -49,3 +47,5 @@ The demand for skilled data science practitioners is rapidly growing, and this s
    - Basic R syntax
    - Foundational R programming concepts such as data types, vectors arithmetic, and indexing
    - How to perform operations in R including sorting, data wrangling using `dplyr`, and making plots
+   
+1 - 2 hours per week for 8 weeks
