@@ -26,9 +26,9 @@ Throughout the program, we will be using the R software environment. You will le
 
 ## Data Science: R Basics
 
-Build a foundation in R and learn how to wrangle, analyze, and visualize data.
-
 [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
+
+Build a foundation in R and learn how to wrangle, analyze, and visualize data.
 
 ### About this course
 
