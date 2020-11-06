@@ -1,7 +1,5 @@
 # Data-Science-Professional-Certificate
 
-***
-
 [Data Science Professional Certificate - HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science)
 
 ### What you will learn:
