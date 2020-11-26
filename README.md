@@ -47,3 +47,26 @@ The demand for skilled data science practitioners is rapidly growing, and this s
    - How to perform operations in R including sorting, data wrangling using `dplyr`, and making plots
    
 1 - 2 hours per week for 8 weeks
+
+## Data Science: Visualization
+
+**[`https://www.edx.org/course/data-science-visualization`](https://www.edx.org/course/data-science-visualization "Course Description")**
+
+Learn basic data visualization principles and how to apply them using `ggplot2`.
+
+### About this course
+
+As part of our Professional Certificate Program in Data Science, this course covers the basics of data visualization and exploratory data analysis. We will use three motivating examples and ggplot2, a data visualization package for the statistical programming language R. We will start with simple datasets and then graduate to case studies about world health, economics, and infectious disease trends in the United States.
+
+We'll also be looking at how mistakes, biases, systematic errors, and other unexpected problems often lead to data that should be handled with care. The fact that it can be difficult or impossible to notice a mistake within a dataset makes data visualization particularly important.
+
+The growing availability of informative datasets and software tools has led to increased reliance on data visualizations across many areas. Data visualization provides a powerful way to communicate data-driven findings, motivate analyses, and detect flaws. This course will give you the skills you need to leverage data to reveal valuable insights and advance your career.
+
+### What yu'll learn
+
+   - Data visualization principles
+   - How to communicate data-driven findings
+   - How to use `ggplot2` to create custom plots
+   - The weaknesses of several widely-used plots and why you should avoid them
+
+1 - 2 hours per week for 8 weeeks
