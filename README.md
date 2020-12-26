@@ -93,3 +93,25 @@ Probability theory is the mathematical foundation of statistical inference which
    - The importance of the Central Limit Theorem
 
 1 - 2 hours per week for 8 weeks
+
+## Data Science: Inference and Modeling
+
+**[`https://www.edx.org/course/data-science-inference-and-modeling`](https://www.edx.org/course/data-science-inference-and-modeling "Course Description")**
+
+Learn inference and modeling, two of the most widely used statistical tools in data analysis.
+
+### About this course
+
+Statistical inference and modeling are indispensable for analyzing data affected by chance, and thus essential for data scientists. In this course, you will learn these key concepts through a motivating case study on election forecasting.
+
+This course will show you how inference and modeling can be applied to develop the statistical approaches that make polls an effective tool and we'll show you how to do this using R. You will learn concepts necessary to define estimates and margins of errors and learn how you can use these to make predictions relatively well and also provide an estimate of the precision of your forecast.
+
+Once you learn this you will be able to understand two concepts that are ubiquitous in data science: confidence intervals, and p-values. Then, to understand statements about the probability of a candidate winning, you will learn about Bayesian modeling. Finally, at the end of the course, we will put it all together to recreate a simplified version of an election forecast model and apply it to the 2016 election.
+
+### What you'll learn
+
+   - The concepts necessary to define estimates and margins of errors of populations, parameters, estimates and standard errors in order to make predictions about data
+   - How to use models to aggregatedata from different sources
+   - The very basics of Bayesian statistics and predictive modeling
+
+1 - 2 hours per week for 8 weeks
