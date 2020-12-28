@@ -115,3 +115,26 @@ Once you learn this you will be able to understand two concepts that are ubiquit
    - The very basics of Bayesian statistics and predictive modeling
 
 1 - 2 hours per week for 8 weeks
+
+## Data Science: Productivity Tools
+
+**[`https://www.edx.org/course/data-science-productivity-tools`](https://www.edx.org/course/data-science-productivity-tools "Course Description")**
+
+Keep your projects organized and produce reproducible reports using GitHub, git, Unix/Linux, and RStudio.
+
+### About this course
+
+A typical data analysis project may involve several parts, each including several data files and different scripts with code. Keeping all this organized can be challenging.
+
+Part of our Professional Certificate Program in Data Science, this course explains how to use Unix/Linux as a tool for managing files and directories on your computer and how to keep the file system organized. You will be introduced to the version control systems git, a powerful tool for keeping track of changes in your scripts and reports. We also introduce you to GitHub and demonstrate how you can use this service to keep your work in a repository that facilitates collaborations.
+
+Finally, you will learn to write reports in R markdown which permits you to incorporate text and code into a document. We'll put it all together using the powerful integrated desktop environment RStudio.
+
+### What you'll learn
+
+   - How to use Unix/Linux to manage your file system
+   - How to perform version control with git
+   - How to start a repository on GitHub
+   - How to leverage the many useful features provided by RStudio
+
+1 - 2 hours per week for 8 weeks
