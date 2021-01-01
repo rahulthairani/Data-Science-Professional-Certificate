@@ -138,3 +138,29 @@ Finally, you will learn to write reports in R markdown which permits you to inco
    - How to leverage the many useful features provided by RStudio
 
 1 - 2 hours per week for 8 weeks
+
+## Data Science: Wrangling
+
+**[`https://www.edx.org/course/data-science-wrangling`](https://www.edx.org/course/data-science-wrangling "Course Description")**
+
+Learn to process and convert raw data into formats needed for analysis.
+
+### About this course
+
+In this course, part of our Professional Certificate Program in Data Science,we cover several standard steps of the data wrangling process like importing data into R, tidying data, string processing, HTML parsing, working with dates and times, and text mining. Rarely are all these wrangling steps necessary in a single analysis, but a data scientist will likely face them all at some point.
+
+Very rarely is data easily accessible in a data science project. It's more likely for the data to be in a file, a database, or extracted from documents such as web pages, tweets, or PDFs. In these cases, the first step is to import the data into R and tidy the data, using the tidyverse package. The steps that convert data from its raw form to the tidy form is called data wrangling.
+
+This process is a critical step for any data scientist. Knowing how to wrangle and clean data will enable you to make critical insights that would otherwise be hidden.
+
+### What you'll learn
+
+   - Importing data into R from different file formats
+   - Web scraping
+   - How to tidy data using the `tidyverse` to better facilitate analysis
+   - String processing with regular expressions (`regex`)
+   - Wrangling data using `dplyr`
+   - How to work with dates and times as file formats
+   - Text mining
+   
+1 - 2 hours per week for 8 weeks
