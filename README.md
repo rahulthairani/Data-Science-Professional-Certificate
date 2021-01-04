@@ -2,7 +2,7 @@
 
 **[Data Science Professional Certificate - HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science "Program Description")**
 
-### What you will learn:
+### What you will learn
 
    - Fundamental R programming skills
 
