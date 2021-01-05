@@ -43,7 +43,9 @@ The demand for skilled data science practitioners is rapidly growing, and this s
 ### What you'll learn
 
    - Basic R syntax
+   
    - Foundational R programming concepts such as data types, vectors arithmetic, and indexing
+   
    - How to perform operations in R including sorting, data wrangling using `dplyr`, and making plots
    
 1 - 2 hours per week for 8 weeks
@@ -65,8 +67,11 @@ The growing availability of informative datasets and software tools has led to i
 ### What you'll learn
 
    - Data visualization principles
+   
    - How to communicate data-driven findings
+   
    - How to use `ggplot2` to create custom plots
+   
    - The weaknesses of several widely-used plots and why you should avoid them
 
 1 - 2 hours per week for 8 weeeks
@@ -88,8 +93,11 @@ Probability theory is the mathematical foundation of statistical inference which
 ### What you'll learn
 
    - Important concepts in probability theory including random variables and independence
+   
    - How to perform a Monte Carlo simulation
+   
    - The meaning of expected values and standard errors and how to compute them in R
+   
    - The importance of the Central Limit Theorem
 
 1 - 2 hours per week for 8 weeks
@@ -111,7 +119,9 @@ Once you learn this you will be able to understand two concepts that are ubiquit
 ### What you'll learn
 
    - The concepts necessary to define estimates and margins of errors of populations, parameters, estimates and standard errors in order to make predictions about data
+   
    - How to use models to aggregatedata from different sources
+   
    - The very basics of Bayesian statistics and predictive modeling
 
 1 - 2 hours per week for 8 weeks
@@ -133,8 +143,11 @@ Finally, you will learn to write reports in R markdown which permits you to inco
 ### What you'll learn
 
    - How to use Unix/Linux to manage your file system
+   
    - How to perform version control with git
+   
    - How to start a repository on GitHub
+   
    - How to leverage the many useful features provided by RStudio
 
 1 - 2 hours per week for 8 weeks
@@ -156,11 +169,41 @@ This process is a critical step for any data scientist. Knowing how to wrangle a
 ### What you'll learn
 
    - Importing data into R from different file formats
+   
    - Web scraping
+   
    - How to tidy data using the `tidyverse` to better facilitate analysis
+   
    - String processing with regular expressions (`regex`)
+   
    - Wrangling data using `dplyr`
+   
    - How to work with dates and times as file formats
+   
    - Text mining
+   
+1 - 2 hours per week for 8 weeks
+
+## Data Science: Linear Regression
+
+**[`https://www.edx.org/course/data-science-linear-regression`](https://www.edx.org/course/data-science-linear-regression "Course Description")**
+
+Learn how to use R to implement linear regression, one of the most common statistical modeling approaches in data science.
+
+### About this course
+
+Linear regression is commonly used to quantify the relationship between two or more variables. It is also used to adjust for confounding. This course, part of our Professional Certificate Program in Data Science, covers how to implement linear regression and adjust for confounding in practice using R.
+
+In data science applications, it is very common to be interested in the relationship between two or more variables. The motivating case study we examine in this course relates to the data-driven approach used to construct baseball teams described in Moneyball. We will try to determine which measured outcomes best predict baseball runs by using linear regression.
+
+We will also examine confounding, where extraneous variables affect the relationship between two or more other variables, leading to spurious associations. Linear regression is a powerful technique for removing confounders, but it is not a magical process. It is essential to understand when it is appropriate to use, and this course will teach you when to apply this technique.
+
+### What you'll learn
+
+   - How linear regression was originally developed by Galton
+   
+   - What is confounding and how to detect it
+   
+   - How to examine the relationships between variables by implementing linear regression in R
    
 1 - 2 hours per week for 8 weeks
