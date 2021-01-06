@@ -26,7 +26,7 @@ Throughout the program, we will be using the R software environment. You will le
 
 ## Data Science: R Basics
 
-**[`https://www.edx.org/course/data-science-r-basics`](https://www.edx.org/course/data-science-r-basics "Course Description")**
+**[Data Science: R Basics](https://www.edx.org/course/data-science-r-basics "Course Description")**
 
 Build a foundation in R and learn how to wrangle, analyze, and visualize data.
 
@@ -52,7 +52,7 @@ The demand for skilled data science practitioners is rapidly growing, and this s
 
 ## Data Science: Visualization
 
-**[`https://www.edx.org/course/data-science-visualization`](https://www.edx.org/course/data-science-visualization "Course Description")**
+**[Data Science: Visualization](https://www.edx.org/course/data-science-visualization "Course Description")**
 
 Learn basic data visualization principles and how to apply them using `ggplot2`.
 
@@ -78,7 +78,7 @@ The growing availability of informative datasets and software tools has led to i
 
 ## Data Science: Probability
 
-**[`https://www.edx.org/course/data-science-probability`](https://www.edx.org/course/data-science-probability "Course Description")**
+**[Data Science: Probability](https://www.edx.org/course/data-science-probability "Course Description")**
 
 Learn probability theory -- essential for a data scientist -- using a case study on the financial crisis of 2007-2008.
 
@@ -104,7 +104,7 @@ Probability theory is the mathematical foundation of statistical inference which
 
 ## Data Science: Inference and Modeling
 
-**[`https://www.edx.org/course/data-science-inference-and-modeling`](https://www.edx.org/course/data-science-inference-and-modeling "Course Description")**
+**[Data Science: Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling "Course Description")**
 
 Learn inference and modeling, two of the most widely used statistical tools in data analysis.
 
@@ -128,7 +128,7 @@ Once you learn this you will be able to understand two concepts that are ubiquit
 
 ## Data Science: Productivity Tools
 
-**[`https://www.edx.org/course/data-science-productivity-tools`](https://www.edx.org/course/data-science-productivity-tools "Course Description")**
+**[Data Science: Productivity Tools](https://www.edx.org/course/data-science-productivity-tools "Course Description")**
 
 Keep your projects organized and produce reproducible reports using GitHub, git, Unix/Linux, and RStudio.
 
@@ -154,7 +154,7 @@ Finally, you will learn to write reports in R markdown which permits you to inco
 
 ## Data Science: Wrangling
 
-**[`https://www.edx.org/course/data-science-wrangling`](https://www.edx.org/course/data-science-wrangling "Course Description")**
+**[Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling "Course Description")**
 
 Learn to process and convert raw data into formats needed for analysis.
 
@@ -186,7 +186,7 @@ This process is a critical step for any data scientist. Knowing how to wrangle a
 
 ## Data Science: Linear Regression
 
-**[`https://www.edx.org/course/data-science-linear-regression`](https://www.edx.org/course/data-science-linear-regression "Course Description")**
+**[Data Science: Linear Regression](https://www.edx.org/course/data-science-linear-regression "Course Description")**
 
 Learn how to use R to implement linear regression, one of the most common statistical modeling approaches in data science.
 
