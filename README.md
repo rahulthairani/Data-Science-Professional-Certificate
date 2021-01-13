@@ -207,3 +207,31 @@ We will also examine confounding, where extraneous variables affect the relation
    - How to examine the relationships between variables by implementing linear regression in R
    
 1 - 2 hours per week for 8 weeks
+
+## Data Science: Machine Learning
+
+**[Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning "Course Description")**
+
+Build a movie recommendation system and learn the science behind one of the most popular and successful data science techniques.
+
+### About this course
+
+Perhaps the most popular data science methodologies come from machine learning. What distinguishes machine learning from other computer guided decision processes is that it builds prediction algorithms using data. Some of the most popular products that use machine learning include the handwriting readers implemented by the postal service, speech recognition, movie recommendation systems, and spam detectors.
+
+In this course, part of our Professional Certificate Program in Data Science, you will learn popular machine learning algorithms, principal component analysis, and regularization by building a movie recommendation system.
+
+You will learn about training data, and how to use a set of data to discover potentially predictive relationships. As you build the movie recommendation system, you will learn how to train algorithms using training data so you can predict the outcome for future datasets. You will also learn about overtraining and techniques to avoid it such as cross-validation. All of these skills are fundamental to machine learning.
+
+### What you'll learn
+
+   - The basics of machine learning
+   
+   - How to perform cross-validation to avoid overtraining
+   
+   - Several popular machine learning algorithms
+   
+   - How to build a recommendation system
+   
+   - What is regularization and why it is useful?
+   
+2 - 4 hours per week for 8 weeks
